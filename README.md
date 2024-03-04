@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior software Developer
 -------------------------
 
-When I'm not trying to find find and squash bugs that turns out to be only a missing semi-colon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
+Hi. I am Duwayne Frieslaar. I am an aspiring software developer. I am amazing at HTML, and CSS. I started coding a few years back, and I just fell in love with the flow of it, and I just couldn't stop. I started teaching myself HTML, CSS, but I eventually decided to join Codespace Academy to further my learning. When I'm not trying to find find and squash bugs that turns out to be only a missing semi-colon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [duwaynefrieslaar23@gmail.com](mailto:duwaynefrieslaar23@gmail.com)
