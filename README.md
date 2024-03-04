@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Junior software Developer
 -------------------------
-![image](https://github.com/DFreezy/DFreezy/assets/155962320/8616907e-8d47-4dc8-a145-74a159c96bba)
-![image](https://github.com/DFreezy/DFreezy/assets/155962320/310c1000-f90a-43af-826c-1cbbe91f119e)
+![image](https://github.com/DFreezy/DFreezy/assets/155962320/942ddf68-6402-4599-a87c-48cae1fca5ff)
+
 Hi. I am Duwayne Frieslaar. I am an aspiring software developer. I am amazing at HTML, and CSS. I started coding a few years back, and I just fell in love with the flow of it, and I just couldn't stop. I started teaching myself HTML, CSS, but I eventually decided to join Codespace Academy to further my learning. When I'm not trying to find find and squash bugs that turns out to be only a missing semi-colon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
 
 * 🌍  I'm based in Cape Town
