@@ -14,7 +14,8 @@ Hi. I am Duwayne Frieslaar. I am an aspiring software developer. I am amazing at
 * ⚡  PS. My favorite beverage is coffee
 
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw1N2hmZHprMm5zanZpYzRnYzV4N25vYXhpdTV3YzRxOHRmem50biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif
+![image](https://github.com/DFreezy/DFreezy/assets/155962320/51124213-0426-463b-b268-2adae331a0c6)
+
 
 
 ### Skills
