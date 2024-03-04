@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior software Developer
 -------------------------
 
-When I'm not trying to find find and squash bugs that turns out to be only a missing semi-colon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
+I am currently a student at Codespace Academy. I am aspiring to become a big time software developer. When I'm not trying to find and squash bugs that turns out to be only a missing semi-colon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [duwaynefrieslaar23@gmail.com](mailto:duwaynefrieslaar23@gmail.com)
