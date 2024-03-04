@@ -4,12 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior software Developer
 -------------------------
 ![image](https://github.com/DFreezy/DFreezy/assets/155962320/942ddf68-6402-4599-a87c-48cae1fca5ff)
+
+
 Hi. I am Duwayne Frieslaar. I am an aspiring software developer. I am amazing at HTML, and CSS. I started coding a few years back, and I just fell in love with the flow of it, and I just couldn't stop. I started teaching myself HTML, CSS, but I eventually decided to join Codespace Academy to further my learning. When I'm not trying to find find and squash bugs that turns out to be only a missing semi-colon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [duwaynefrieslaar23@gmail.com](mailto:duwaynefrieslaar23@gmail.com)
 * 🧠  I'm learning Javascript advance
 * ⚡  PS. My favorite beverage is coffee
+
+
+![image](https://github.com/DFreezy/DFreezy/assets/155962320/3ac1f0d5-ad46-4c62-b0f6-b3f19e1820e3)
+
 
 ### Skills
 
