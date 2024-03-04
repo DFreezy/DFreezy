@@ -15,12 +15,12 @@ When I'm not trying to find find and squash bugs that turns out to be only a mis
 
 
 * 🌍  I'm based in Cape Town
-* 
+  
 * ✉️  You can contact me at:
-* [duwaynefrieslaar23@gmail.com](mailto:duwaynefrieslaar23@gmail.com)
-* 
+  [duwaynefrieslaar23@gmail.com](mailto:duwaynefrieslaar23@gmail.com)
+  
 * 🧠  I'm learning Javascript advance
-* 
+  
 * ⚡  PS. My favorite beverage is coffee
 
 
