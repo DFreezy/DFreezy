@@ -7,12 +7,12 @@ Junior Fullstack Developer
    https://glistening-swan-1b69db.netlify.app
 
 
-Hi. I am Duwayne Frieslaar. I am an aspiring software developer. 
-I am amazing at HTML, and CSS. 
+Hi. I am Duwayne Frieslaar. I am an aspiring frontend web developer developer. 
+I am amazing at HTML, CSS and Javascript 
 
-I started coding a few years back, and I just fell in love with the flow of it, and I just couldn't stop. I started teaching myself HTML, CSS, but I eventually decided to join Codespace Academy to further my learning. 
+I started coding a few years back, and I just fell in love with the flow of it, and I just couldn't stop. I started teaching myself HTML, CSS, but I eventually decided to join Codespace Academy to further my learning. After codespce Academy I also learned further at Capaciti tech accelerator ABSA program. I'm fully confident now that I can create anything I want if I use the right tools. 
 
-When I'm not trying to find find and squash bugs that turns out to be only a missing semi-colon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
+When I'm not trying to find and squash bugs that turns out to be only a missing quote. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
 
 
 * 🌍  I'm based in Cape Town
@@ -20,7 +20,7 @@ When I'm not trying to find find and squash bugs that turns out to be only a mis
 * ✉️  You can contact me at:
   [duwaynefrieslaar23@gmail.com](mailto:duwaynefrieslaar23@gmail.com)
   
-* 🧠  I'm learning Javascript advance
+* 🧠  I'm learning Java and python
   
 * ⚡  PS. My favorite beverage is coffee
 
