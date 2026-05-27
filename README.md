@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Entry-Level Front-End & WordPress Developer | React | JavaScript | WordPress | CodeSpace
 Graduate
 -------------------------
-   ![image]([https://github.com/DFreezy/DFreezy/assets/155962320/942ddf68-6402-4599-a87c-48cae1fca5ff](https://media.licdn.com/dms/image/v2/D4D2DAQFEYaJb2F4-yQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1732290186786?e=1780502400&v=beta&t=A8siUYVcZVlq1Qva-MxwXxLYqJIe9gul7aT-VWN0ewE))
+   ![image]([https://media.licdn.com/dms/image/v2/D4D2DAQFEYaJb2F4-yQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1732290186786?e=1780502400&v=beta&t=A8siUYVcZVlq1Qva-MxwXxLYqJIe9gul7aT-VWN0ewE])
    https://glistening-swan-1b69db.netlify.app
 
 
