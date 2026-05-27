@@ -7,12 +7,16 @@ Junior Fullstack Developer
    https://glistening-swan-1b69db.netlify.app
 
 
-Hi. I am Duwayne Frieslaar. I am a fullstack web developer. 
-I am proficient at HTML, CSS, Javascript, React and tailwindcss as well as backend languages like Python, Java, php and Node.js
-
-I started coding a few years back, and I just fell in love with the flow of it, and I just couldn't stop. I started teaching myself HTML, CSS, but I eventually decided to join Codespace Academy to further my learning. After codespce Academy I also learned further at Capaciti tech accelerator ABSA program. I'm fully confident now that I can create anything I want if I use the right tools. 
-
-When I'm not trying to find and squash bugs that turns out to be only a missing comma or semicolon. I love to listen to music, as well as watch tutorials to further my coding powers to conquer the internet world further.
+I am an entry-level front-end and WordPress developer with hands-on experience building responsive
+websites and real client sites using React, JavaScript, Tailwind CSS, and WordPress. I developed these
+skills through an 18-month full-stack programme at Capaciti, backed by a Software Development
+Certificate from CodeSpace Academy where I graduated with distinction. My Capaciti training led to a host
+placement at WLV Solutions, where I worked on WordPress development and back-end projects in a real
+delivery team. Alongside my programmes, I have built and deployed websites for real clients — giving me
+experience working to a brief and making technical decisions independently. Before moving into tech, I
+worked in retail at Hungry Lion, where I developed composure under pressure, reliability, and the ability to
+deliver consistent quality in a fast-moving environment. I am looking for an entry-level front-end or
+WordPress developer role where I can apply my skills on real products and keep growing.
 
 
 * 🌍  I'm based in Cape Town
