@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duwayne Frieslaar
 =========================================================================================================================================
 
-Junior Fullstack Developer
+Entry-Level Front-End & WordPress Developer | React | JavaScript | WordPress | CodeSpace
+Graduate
 -------------------------
    ![image](https://github.com/DFreezy/DFreezy/assets/155962320/942ddf68-6402-4599-a87c-48cae1fca5ff)
    https://glistening-swan-1b69db.netlify.app
