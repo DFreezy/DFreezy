@@ -7,7 +7,7 @@ Graduate
    ![image](https://media.licdn.com/dms/image/v2/D4D2DAQFEYaJb2F4-yQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1732290186786?e=1780502400&v=beta&t=A8siUYVcZVlq1Qva-MxwXxLYqJIe9gul7aT-VWN0ewE)
   https://d-freezy-cast-podcast-app.vercel.app/
 
-
+<h1><b>About Me</b></h1>
 I am an entry-level front-end and WordPress developer with hands-on experience building responsive
 websites and real client sites using React, JavaScript, Tailwind CSS, and WordPress. I developed these
 skills through an 18-month full-stack programme at Capaciti, backed by a Software Development
